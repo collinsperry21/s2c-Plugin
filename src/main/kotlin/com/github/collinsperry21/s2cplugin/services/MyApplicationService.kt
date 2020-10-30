@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.collinsperry21.s2cplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.collinsperry21.s2cplugin.MyBundle
 
 class MyApplicationService {
 
